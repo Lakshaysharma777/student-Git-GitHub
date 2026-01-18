@@ -1,2 +1,3 @@
 # student-Git-GitHub
-this is my first git github repository 
+This is my first Git Github repository 
+Auther - Lakshay Sharma
